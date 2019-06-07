@@ -15,3 +15,4 @@ Tips and Tricks in Research
 - Be sure to include any custom `.stl` files.
 - If your word file is detcted as LaTex, be sure to save it in `Word 97-2003` format.
 - Try not to have transperency in your images as it creates wierd artifacts.
+- ArXiv uses LaTeX commands for accented fonts.
