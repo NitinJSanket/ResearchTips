@@ -5,6 +5,9 @@ Tips and Tricks in Research
 - [Submitting to ArXiv](#arxiv)
   
 <a name="arxiv"/>
+
+### Submitting to ArXiv
+
 - Arxiv can now detect drafts made in LaTeX and will ask you to upload the source files. 
 - There is a limit on file size to 10000KB. Use [IrfanView](https://www.irfanview.com/) or any other software to downscale your images. 
 - You need to upload the `.bbl` files for references to work.
